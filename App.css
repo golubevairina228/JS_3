@@ -1,0 +1,28 @@
+.pattern {
+  margin: 0 200px;
+}
+
+.h1title {
+  margin: 20px 200px;
+  color: rgb(24, 4, 124);
+  text-align: center;
+  font-weight: 600;
+}
+
+.card {
+  text-align: center;
+  border: 1px solid rgb(0, 6, 6);
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-weight: 300;
+  color: rgb(18, 1, 1);
+}
+
+span {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(24, 4, 124);
+}
